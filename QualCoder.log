@@ -1,0 +1,81 @@
+Initialized config.ini
+2026/09/24 10:44:23 INFO __main__.load_settings Initialized config.ini
+Initialized config.ini
+2026/09/24 10:44:23 INFO __main__.load_settings Initialized config.ini
+Initialized config.ini
+2026/09/24 10:44:23 INFO __main__.load_settings Initialized config.ini
+Initialized config.ini
+2026/09/24 10:44:23 INFO __main__.load_settings Initialized config.ini
+No previous projects found
+2026/09/24 10:44:23 INFO __main__.read_previous_project_paths No previous projects found
+2026/09/24 10:44:23 ERROR qualcoder.error_dlg.exception_hook Uncaught exception: KeyError: 'codername'
+  File "qualcoder\__main__.py", line 3495, in <module>
+
+  File "qualcoder\__main__.py", line 3329, in gui
+
+  File "qualcoder\__main__.py", line 208, in __init__
+
+  File "qualcoder\__main__.py", line 1022, in load_settings
+
+[WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Documents\\Female Group.docx_1_BKUP_20260924_10.qda\\ai_data'
+2026/09/24 10:52:42 WARNING __main__.delete_backup_folders [WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Documents\\Female Group.docx_1_BKUP_20260924_10.qda\\ai_data'
+wrapped C/C++ object of type QThread has been deleted
+2026/09/24 10:52:49 DEBUG __main__.stop_heartbeat wrapped C/C++ object of type QThread has been deleted
+[WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Documents\\Male Group.docx_BKUP_20260924_10.qda\\ai_data'
+2026/09/24 10:53:34 WARNING __main__.delete_backup_folders [WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Documents\\Male Group.docx_BKUP_20260924_10.qda\\ai_data'
+wrapped C/C++ object of type QThread has been deleted
+2026/09/24 10:59:31 DEBUG __main__.stop_heartbeat wrapped C/C++ object of type QThread has been deleted
+[WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Research methods\\Male Group.docx_BKUP_20260924_10.qda\\ai_data'
+2026/09/24 11:03:34 WARNING __main__.delete_backup_folders [WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Research methods\\Male Group.docx_BKUP_20260924_10.qda\\ai_data'
+[WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Research methods\\Male Group.docx_BKUP_20260924_11.qda\\ai_data'
+2026/09/24 11:25:12 WARNING __main__.delete_backup_folders [WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Research methods\\Male Group.docx_BKUP_20260924_11.qda\\ai_data'
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 11:25:48 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 11:25:48 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 11:25:48 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 11:59:12 ERROR qualcoder.error_dlg.exception_hook Uncaught exception: PermissionError: [Errno 13] Permission denied: '/Male Group.docx.qdpx'
+  File "qualcoder\__main__.py", line 2180, in refi_project_export
+
+  File "qualcoder\refi.py", line 2003, in __init__
+
+  File "qualcoder\refi.py", line 2112, in export_project
+
+  File "shutil.py", line 262, in copyfile
+
+[WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+2026/09/24 12:02:04 DEBUG __main__.delete_lock_file [WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+[WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+2026/09/24 12:02:08 DEBUG __main__.delete_lock_file [WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+[WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+2026/09/24 12:02:16 DEBUG __main__.delete_lock_file [WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:04:38 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:04:41 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:04:41 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+[WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Research methods\\Male Group.docx_BKUP_20260924_12.qda\\ai_data'
+2026/09/24 12:13:37 WARNING __main__.delete_backup_folders [WinError 5] Access is denied: 'C:/Users/eugen/OneDrive/Research methods\\Male Group.docx_BKUP_20260924_12.qda\\ai_data'
+[WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+2026/09/24 12:37:55 DEBUG __main__.delete_lock_file [WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+could not convert string to float: ''
+2026/09/24 12:38:29 WARNING __main__.open_project could not convert string to float: ''
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:38:30 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:38:31 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:38:45 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:38:45 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+[WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+2026/09/24 12:39:02 DEBUG __main__.delete_lock_file [WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+[WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+2026/09/24 12:39:07 DEBUG __main__.delete_lock_file [WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+[WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+2026/09/24 12:39:11 DEBUG __main__.delete_lock_file [WinError 2] The system cannot find the file specified: 'C:\\Users\\eugen\\OneDrive\\Documents\\Male Group.docx.qda\\project_in_use.lock'
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:39:57 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
+Project cannot be opened since it's already in use by "eugen". Please retry later.
+2026/09/24 12:39:57 WARNING __main__.open_project Project cannot be opened since it's already in use by "eugen". Please retry later.
